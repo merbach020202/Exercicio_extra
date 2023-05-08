@@ -1,0 +1,30 @@
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\bin\Debug\net7.0\Exercicios para pratica.exe
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\bin\Debug\net7.0\Exercicios para pratica.deps.json
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\bin\Debug\net7.0\Exercicios para pratica.runtimeconfig.json
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\bin\Debug\net7.0\Exercicios para pratica.dll
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\bin\Debug\net7.0\Exercicios para pratica.pdb
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\obj\Debug\net7.0\Exercicios para pratica.csproj.AssemblyReference.cache
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\obj\Debug\net7.0\Exercicios para pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\obj\Debug\net7.0\Exercicios para pratica.AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\obj\Debug\net7.0\Exercicios para pratica.AssemblyInfo.cs
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\obj\Debug\net7.0\Exercicios para pratica.csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\obj\Debug\net7.0\Exercicios para pratica.dll
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\obj\Debug\net7.0\refint\Exercicios para pratica.dll
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\obj\Debug\net7.0\Exercicios para pratica.pdb
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\obj\Debug\net7.0\Exercicios para pratica.genruntimeconfig.cache
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\obj\Debug\net7.0\ref\Exercicios para pratica.dll
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\obj\Debug\net7.0\Exercicios para pratica.csproj.AssemblyReference.cache
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\obj\Debug\net7.0\Exercicios para pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\obj\Debug\net7.0\Exercicios para pratica.AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\obj\Debug\net7.0\Exercicios para pratica.AssemblyInfo.cs
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\obj\Debug\net7.0\Exercicios para pratica.csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\obj\Debug\net7.0\Exercicios para pratica.dll
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\obj\Debug\net7.0\refint\Exercicios para pratica.dll
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\obj\Debug\net7.0\Exercicios para pratica.pdb
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\bin\Debug\net7.0\Exercicios para pratica.exe
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\bin\Debug\net7.0\Exercicios para pratica.deps.json
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\bin\Debug\net7.0\Exercicios para pratica.runtimeconfig.json
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\bin\Debug\net7.0\Exercicios para pratica.dll
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\bin\Debug\net7.0\Exercicios para pratica.pdb
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\obj\Debug\net7.0\Exercicios para pratica.genruntimeconfig.cache
+C:\Users\44850641822\Desktop\BackEnd\SEMESTRE 1\Classes\Exercicios para pratica\Exercicio 1\obj\Debug\net7.0\ref\Exercicios para pratica.dll
